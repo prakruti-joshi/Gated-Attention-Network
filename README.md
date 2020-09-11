@@ -1,6 +1,8 @@
-# Gated Attention
+# Gated Attention Network
 
 Implementation of the paper : [Not all attention is needed - Gated Attention Network for Sequence Data (GA-Net)](https://arxiv.org/abs/1912.00349) 
+
+The GAN model is implemented in Python using PyTorch framework. The GAN model is compared to attention and LSTM models for text classification problem on TREC and IMDb datasets.
 
 ##### Flow Diagram for the network:  
 There are two networks in the model:  
